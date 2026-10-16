@@ -1,0 +1,3 @@
+Pon aqui tus fotos como 1.jpg, 2.jpg, 3.jpg ... hasta 24.jpg
+(el numero de cada foto se indica en client/src/Memories.jsx, campo "n").
+Las que falten se ven como un marco rosa con una camara.

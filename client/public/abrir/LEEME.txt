@@ -1,0 +1,2 @@
+Fotos opcionales para las cartas "Abre cuando..."
+Pon aqui tus imagenes (por ejemplo 1.jpg) y en client/src/Letters.jsx agrega al sobre: photo: "abrir/1.jpg"
